@@ -28,9 +28,9 @@ I'm a Frontend Developer 💻 and Designer 🎨!
 
 ## 🌱 I'm currently learning
 
-- Typescript
-- Redux Toolkit
-- Rest Api
+- AWS
+- MongoDb
+- Express js
 
 
 ## 💼 Technical Skills
