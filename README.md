@@ -1,7 +1,7 @@
 
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Govind</a> 👋
+Hi there, I'm <a href="/#" target="_blank" rel="noreferrer">Govind</a> 👋
 </h3>
 
 <h2 align="center">
