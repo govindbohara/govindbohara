@@ -17,15 +17,7 @@ I'm a Frontend Developer 💻 and Designer 🎨!
 <a href="https://inspiring-roentgen-02b92b.netlify.app/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
-
-- My old projects
-- Movie App
-- Frontend Mentor Challenges
-- My own portfolio
-- My CSS skill
-
+  
 ## 🌱 I'm currently learning
 
 - AWS
