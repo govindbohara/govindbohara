@@ -29,8 +29,7 @@ I'm a Frontend Developer 💻 and Designer 🎨!
 ## 🌱 I'm currently learning
 
 - AWS
-- MongoDb
-- Express js
+- low-level programming
 
 
 ## 💼 Technical Skills
